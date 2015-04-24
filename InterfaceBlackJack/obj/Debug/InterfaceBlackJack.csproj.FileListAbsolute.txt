@@ -1,0 +1,9 @@
+C:\Users\Лева\Documents\Visual Studio 2013\Projects\InterfaceBlackJack\InterfaceBlackJack\bin\Debug\InterfaceBlackJack.exe.config
+C:\Users\Лева\Documents\Visual Studio 2013\Projects\InterfaceBlackJack\InterfaceBlackJack\bin\Debug\InterfaceBlackJack.exe
+C:\Users\Лева\Documents\Visual Studio 2013\Projects\InterfaceBlackJack\InterfaceBlackJack\bin\Debug\InterfaceBlackJack.pdb
+C:\Users\Лева\Documents\Visual Studio 2013\Projects\InterfaceBlackJack\InterfaceBlackJack\obj\Debug\InterfaceBlackJack.csprojResolveAssemblyReference.cache
+C:\Users\Лева\Documents\Visual Studio 2013\Projects\InterfaceBlackJack\InterfaceBlackJack\obj\Debug\InterfaceBlackJack.Form1.resources
+C:\Users\Лева\Documents\Visual Studio 2013\Projects\InterfaceBlackJack\InterfaceBlackJack\obj\Debug\InterfaceBlackJack.Properties.Resources.resources
+C:\Users\Лева\Documents\Visual Studio 2013\Projects\InterfaceBlackJack\InterfaceBlackJack\obj\Debug\InterfaceBlackJack.csproj.GenerateResource.Cache
+C:\Users\Лева\Documents\Visual Studio 2013\Projects\InterfaceBlackJack\InterfaceBlackJack\obj\Debug\InterfaceBlackJack.exe
+C:\Users\Лева\Documents\Visual Studio 2013\Projects\InterfaceBlackJack\InterfaceBlackJack\obj\Debug\InterfaceBlackJack.pdb
