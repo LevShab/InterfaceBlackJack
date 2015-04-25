@@ -13,11 +13,6 @@ namespace InterfaceBlackJack
     public partial class Form1 : Form
     {
         static int[] scorecard = new int[13] { 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10, 11 };
-        static string[] drawcard = new string[13] { " 2", " 3", " 4", " 5", " 6", " 7", " 8", " 9", "10", " J", " Q", " K", " A" };
-        static string[] drawclcard = new string[4] { "♥", "♦", "♣", "♠" };
-        static string grapcard;
-        static string closecard;
-        static string regrapcard;
         static int numbercard;
         static int numbercardenemy;
         static int score;
@@ -132,11 +127,14 @@ namespace InterfaceBlackJack
 
         private void button3_Click(object sender, EventArgs e)
         {
+            Bitmap bitmap = new Bitmap("C:\\Users\\Лева\\Documents\\Visual Studio 2013\\Projects\\InterfaceBlackJack\\InterfaceBlackJack\\card\\card.png");
             Random random = new Random();
             int number;
             for (int i = 0; i < 2; i++)
             {
                 number = random.Next(0, 13);
+                pictureBox1.Image = bitmap;
+                pictureBox1.Margin = new Margin(46, 67, 92, 134);
                 if (number == 13 && score > 10) score++;
                 else score+=scorecard[number];
             }
@@ -180,6 +178,11 @@ namespace InterfaceBlackJack
         }
 
         private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
         {
 
         }
